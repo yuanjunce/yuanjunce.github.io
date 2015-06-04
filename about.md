@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am now a graduate student in the Department of Computer Engineering of UCSC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love coding, football and robot.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jy_121@126.com](mailto:jy_121@126.com)
