@@ -67,11 +67,13 @@ couting sort的注意事项：
 
 Begin by counting the keys in x.
 
- for (i = 0; i < x.length; i++) {
 
- 	counts[x[i].key]++;
+ 	for (i = 0; i < x.length; i++) {
 
- }
+ 		counts[x[i].key]++;
+
+ 	}
+
 
  我们要做的就是通过对x[i]的key进行排序，从而最后能实现对x[i]的value的排序，而难点在于item。在进行到这一步时，我们有的条件如下：
 
@@ -90,7 +92,8 @@ Begin by counting the keys in x.
 
  首先对key[]进行coutingsort:
 
- for(int l = 0; l < key.length; l++) {                 //统计出key[]中个元素的数量，待排元素的各位数
+
+ 	for(int l = 0; l < key.length; l++) {                 //统计出key[]中个元素的数量，待排元素的各位数
 
 		count[key[l]]++;
 
@@ -98,31 +101,33 @@ Begin by counting the keys in x.
 
 接下来用scan[]数组，表示小于i的数量（scan[i]）,这样就知道了有多少的元素是小于key[i]的。
 
-int total = 0;
+	int total = 0;
 
-	int c =0;
+		int c =0;
 
-	for(int k = 0; k < count.length; k++) {
+		for(int k = 0; k < count.length; k++) {
 
-		c = count[k];
+			c = count[k];
 
-		scan[k] = total;
+			scan[k] = total;
 
-		total = total + c;
+			total = total + c;
 
-	}
+		}
 
 
 
 最后进行输出：
 
-for(int p = 0; p < keys.length; p++) {
+
+	for(int p = 0; p < keys.length; p++) {
 
 		result[scan[key[p]]] = keys[p];
 
 		scan[key[p]]++;
 
 	}
+
 
 
 
