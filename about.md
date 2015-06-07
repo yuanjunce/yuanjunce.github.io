@@ -8,7 +8,7 @@ I am now a graduate student in the Department of Computer Engineering of UCSC.
 
 ### More Information
 
-I love coding, football and robot.
+I love coding, football and robot. Now I am looking for my career direction and I hope one day I can contribute my life to it.
 
 ### Contact me
 
