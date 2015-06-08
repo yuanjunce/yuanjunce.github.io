@@ -162,6 +162,29 @@ hashtable中的每个数据类型设为Entry:
 
 
 
+5.统计collision的数量：
+
+
+对于任意一个bucket[i]，只要其长度大于1，就说明存在相同的hashcode值：
+
+所以我们对bucket[i]顺序遍历：
+
+
+	for(int i = 0; i < N; i++){
+
+		if(bucket[i].length() > 1){
+
+					sum++;
+
+		}
+
+	}
+
+	System.out.println("Actual number of collisions: " + sum);
+
+
+
+
 
 
 四、程序结果：
