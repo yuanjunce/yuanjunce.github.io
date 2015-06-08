@@ -25,12 +25,10 @@ http://www.cs.berkeley.edu/~jrs/61b/hw/hw2/
 
 二、解题思路：
 
-	判断是否闰年
+判断是否闰年
 
-	/** Checks whether the given year is a leap year.
-   		*  @return true if and only if the input year is a leap year.
-   */
-	public static boolean isLeapYear(int year) {
+	
+    public static boolean isLeapYear(int year) {
     	
     	if(year%100 == 0){
 
@@ -64,14 +62,10 @@ http://www.cs.berkeley.edu/~jrs/61b/hw/hw2/
 
 
 
-  	返回某年某月的天数
- 	/** Returns the number of days in a given month.
-   *  @param month is a month, numbered in the range 1...12.
-   *  @param year is the year in question, with no digits omitted.
-   *  @return the number of days in the given month.
-   */
+返回某年某月的天数
+ 
 
-	public static int daysInMonth(int month, int year) {
+  public static int daysInMonth(int month, int year) {
     
     	if(isLeapYear(year)){
 
@@ -165,7 +159,7 @@ http://www.cs.berkeley.edu/~jrs/61b/hw/hw2/
   	}
 
 
-  	//计算今天是此年的第几天
+计算今天是此年的第几天
 
 
   	public int dayInYear() {
