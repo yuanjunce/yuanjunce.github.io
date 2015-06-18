@@ -124,7 +124,7 @@ NineChapter lesson1
 
 (1)
 
-输入：{1,2,2}              输出：{{}, {1}, {2}, {1,2}, {2,2}, {1,2,2}}
+
 
 分析可知，与上一题目十分相似，不同的只是数组中有重复元素，所以要想办法如何去除
 
@@ -377,7 +377,7 @@ pos[i - 1] == 0            这句话是表明上一个元素没有被加入到li
             return result;
         
         
-    }
+        }
     
     
         public static void perm(ArrayList<ArrayList<Integer>> result, ArrayList<Integer> list, ArrayList<Integer> num, int[] visited){
@@ -391,9 +391,9 @@ pos[i - 1] == 0            这句话是表明上一个元素没有被加入到li
         
             for(int i = 0; i < num.size(); i++){
 
-             if(visited[i] == 1 || (i != 0 && num.get(i) == num.get(i-1)) && visited[i-1] == 0){
+                if(visited[i] == 1 || (i != 0 && num.get(i) == num.get(i-1)) && visited[i-1] == 0){
                 
-                continue;
+                    continue;
             
                 }
             
