@@ -1,8 +1,11 @@
+---
+layout: post
+title: 排列组合
+---
+
+
+
 NineChapter lesson1
-
-
-主题：排列组合
-
 
 
 
