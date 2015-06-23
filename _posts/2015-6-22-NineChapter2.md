@@ -15,7 +15,7 @@ Classical Binary Search:
 Find the any/first/last position of target in nums, return -1 if target doesn’t exist.
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/DoSearch.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/DoSearch.png)
 
 
 
