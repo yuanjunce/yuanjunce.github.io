@@ -32,7 +32,7 @@ NineChapter lesson1
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/SubSet.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/SubSet.png)
 
 
 
@@ -43,7 +43,7 @@ NineChapter lesson1
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/DiGuiShu.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/DiGuiShu.png)
 
 
 (2)每个中间时刻list，都是一个答案，所以每次生成新的list就输出
@@ -199,7 +199,7 @@ NineChapter lesson1
 链接：http://www.lintcode.com/zh-cn/problem/permutations/
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/Permutation.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/Permutation.png)
 
 
 
@@ -309,7 +309,7 @@ NineChapter lesson1
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/Permutation2.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson1/Permutation2.png)
 
 
 

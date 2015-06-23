@@ -22,7 +22,7 @@ NineChapter lesson3
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson3/bianli.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson3/bianli.png)
 
 
 模板：
@@ -119,7 +119,7 @@ NineChapter lesson3
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchRange.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchRange.png)
 
 
 
@@ -155,7 +155,7 @@ last:   start = mid
 链接：http://www.lintcode.com/zh-cn/problem/search-insert-position/
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/Search Insert Position .png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/Search Insert Position .png)
 
 
 
@@ -206,7 +206,7 @@ last:   start = mid
 链接：http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix/
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchMatrix.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchMatrix.png)
 
 
 
@@ -235,7 +235,7 @@ last:   start = mid
 
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchMatrix2.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchMatrix2.png)
 
 
 
@@ -259,7 +259,7 @@ last:   start = mid
 如下图所示：
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/Search.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/Search.png)
 
 
 
@@ -354,7 +354,7 @@ last:   start = mid
 链接：http://www.lintcode.com/zh-cn/problem/find-peak-element/
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchPeak.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/SearchPeak.png)
 
 
 
@@ -404,7 +404,7 @@ last:   start = mid
 链接：http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array/
 
 
-[_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/xuanzhuan.png)
+![_config.yml]({{ site.baseurl }}/images/NineChapter/Lesson2/xuanzhuan.png)
 
 
 

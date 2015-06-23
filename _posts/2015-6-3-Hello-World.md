@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-category:test
+category: test
 ---
 
 BE PART 
